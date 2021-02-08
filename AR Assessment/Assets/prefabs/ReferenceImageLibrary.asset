@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5295775155048170641
+  m_GuidHigh: 13712831644561801647
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5744316393422029676
+      m_GuidHigh: 1915215705707117187
+    m_SerializedTextureGuid:
+      m_GuidLow: 9891165662780976053
+      m_GuidHigh: 10663403651311293801
+    m_Size: {x: 0.01, y: 0.0074927676}
+    m_SpecifySize: 1
+    m_Name: Shark
+    m_Texture: {fileID: 2800000, guid: c099ebb57ac38944695503ad1f05fc93, type: 3}
