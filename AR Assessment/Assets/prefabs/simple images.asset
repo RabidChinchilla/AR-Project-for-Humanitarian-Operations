@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: simple images
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5096548112446795886
+  m_GuidHigh: 4600334673791175069
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4989883371889927544
+      m_GuidHigh: 17681387299114280615
+    m_SerializedTextureGuid:
+      m_GuidLow: 17929963009818480679
+      m_GuidHigh: 14044131981129424137
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: red circle
+    m_Texture: {fileID: 2800000, guid: 441fd027065cf8d4091decb9a0c7e6c2, type: 3}
